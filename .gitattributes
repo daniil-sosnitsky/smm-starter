@@ -1,0 +1,3 @@
+# Скрипты всегда с LF: на macOS CRLF ломает shebang и даёт $': command not found
+*.sh text eol=lf
+*.md text eol=lf
